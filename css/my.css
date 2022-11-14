@@ -1,1 +1,10 @@
 /* Here is your custom css styles. */
+
+/* 修复代码块选择时高度异常 */
+.line-numbers .line-numbers-rows{
+    top: 2.05em !important;
+    left: -0.6em !important;
+}
+pre[class*=language-].line-numbers>code{
+	position: static!important;
+}
