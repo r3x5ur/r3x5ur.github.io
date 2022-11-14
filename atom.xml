@@ -18,8 +18,8 @@
   
   <entry>
     <title>nmap扫描工具的使用</title>
-    <link href="https://www.jinxi.site/nmap-3bf469c01648/"/>
-    <id>https://www.jinxi.site/nmap-3bf469c01648/</id>
+    <link href="https://www.jinxi.site/nmap/"/>
+    <id>https://www.jinxi.site/nmap/</id>
     <published>2022-07-28T16:00:00.000Z</published>
     <updated>2022-11-11T05:56:57.244Z</updated>
     
@@ -45,8 +45,8 @@
   
   <entry>
     <title>docker搭建隧道代理池</title>
-    <link href="https://www.jinxi.site/docker-channel-proxy-f081efd5d673/"/>
-    <id>https://www.jinxi.site/docker-channel-proxy-f081efd5d673/</id>
+    <link href="https://www.jinxi.site/docker-channel-proxy/"/>
+    <id>https://www.jinxi.site/docker-channel-proxy/</id>
     <published>2022-04-28T16:00:00.000Z</published>
     <updated>2022-11-11T06:00:01.759Z</updated>
     
@@ -75,8 +75,8 @@
   
   <entry>
     <title>使用Typora插入图片</title>
-    <link href="https://www.jinxi.site/image-3259b7878f48/"/>
-    <id>https://www.jinxi.site/image-3259b7878f48/</id>
+    <link href="https://www.jinxi.site/image/"/>
+    <id>https://www.jinxi.site/image/</id>
     <published>2022-04-21T06:06:49.000Z</published>
     <updated>2022-11-11T05:55:14.565Z</updated>
     
@@ -102,8 +102,8 @@
   
   <entry>
     <title>docker安装和使用</title>
-    <link href="https://www.jinxi.site/docker-38778d6a67e9/"/>
-    <id>https://www.jinxi.site/docker-38778d6a67e9/</id>
+    <link href="https://www.jinxi.site/docker/"/>
+    <id>https://www.jinxi.site/docker/</id>
     <published>2022-04-09T16:00:00.000Z</published>
     <updated>2022-11-11T06:00:04.726Z</updated>
     
@@ -127,8 +127,8 @@
   
   <entry>
     <title>JS实现多线程</title>
-    <link href="https://www.jinxi.site/worker-3fb6def87854/"/>
-    <id>https://www.jinxi.site/worker-3fb6def87854/</id>
+    <link href="https://www.jinxi.site/worker/"/>
+    <id>https://www.jinxi.site/worker/</id>
     <published>2021-11-30T00:58:53.000Z</published>
     <updated>2022-11-11T06:33:40.601Z</updated>
     
@@ -152,8 +152,8 @@
   
   <entry>
     <title>docker搭建appium</title>
-    <link href="https://www.jinxi.site/docker-appium-3f5e5c9b243f/"/>
-    <id>https://www.jinxi.site/docker-appium-3f5e5c9b243f/</id>
+    <link href="https://www.jinxi.site/docker-appium/"/>
+    <id>https://www.jinxi.site/docker-appium/</id>
     <published>2021-05-26T16:00:00.000Z</published>
     <updated>2022-11-11T05:59:57.975Z</updated>
     
@@ -179,8 +179,8 @@
   
   <entry>
     <title>“NullByte”靶机渗透</title>
-    <link href="https://www.jinxi.site/nullbyte-b4cf3cdfbad1/"/>
-    <id>https://www.jinxi.site/nullbyte-b4cf3cdfbad1/</id>
+    <link href="https://www.jinxi.site/nullbyte/"/>
+    <id>https://www.jinxi.site/nullbyte/</id>
     <published>2020-06-11T16:00:00.000Z</published>
     <updated>2022-11-11T06:41:59.151Z</updated>
     
@@ -204,8 +204,8 @@
   
   <entry>
     <title>“懒惰的管理员”靶机渗透</title>
-    <link href="https://www.jinxi.site/lazy-f48965b05075/"/>
-    <id>https://www.jinxi.site/lazy-f48965b05075/</id>
+    <link href="https://www.jinxi.site/lazy/"/>
+    <id>https://www.jinxi.site/lazy/</id>
     <published>2020-05-29T16:00:00.000Z</published>
     <updated>2022-11-11T06:05:21.245Z</updated>
     
@@ -229,8 +229,8 @@
   
   <entry>
     <title>“抓住阿三”靶机渗透</title>
-    <link href="https://www.jinxi.site/india-4bc4765b7c88/"/>
-    <id>https://www.jinxi.site/india-4bc4765b7c88/</id>
+    <link href="https://www.jinxi.site/india/"/>
+    <id>https://www.jinxi.site/india/</id>
     <published>2020-05-24T16:00:00.000Z</published>
     <updated>2022-11-11T06:05:16.108Z</updated>
     
@@ -254,8 +254,8 @@
   
   <entry>
     <title>“FBI”靶机渗透</title>
-    <link href="https://www.jinxi.site/fbi-f459260384b3/"/>
-    <id>https://www.jinxi.site/fbi-f459260384b3/</id>
+    <link href="https://www.jinxi.site/fbi/"/>
+    <id>https://www.jinxi.site/fbi/</id>
     <published>2020-05-21T16:00:00.000Z</published>
     <updated>2022-11-11T06:05:10.640Z</updated>
     
@@ -279,8 +279,8 @@
   
   <entry>
     <title>HA:Chanakya靶机渗透</title>
-    <link href="https://www.jinxi.site/chanakya-03ba13053547/"/>
-    <id>https://www.jinxi.site/chanakya-03ba13053547/</id>
+    <link href="https://www.jinxi.site/chanakya/"/>
+    <id>https://www.jinxi.site/chanakya/</id>
     <published>2020-05-19T12:39:42.000Z</published>
     <updated>2022-11-11T06:29:33.856Z</updated>
     
@@ -306,8 +306,8 @@
   
   <entry>
     <title>DC-9靶机渗透</title>
-    <link href="https://www.jinxi.site/dc-9-9b484f37fefb/"/>
-    <id>https://www.jinxi.site/dc-9-9b484f37fefb/</id>
+    <link href="https://www.jinxi.site/dc-9/"/>
+    <id>https://www.jinxi.site/dc-9/</id>
     <published>2020-05-17T16:00:00.000Z</published>
     <updated>2022-11-11T06:01:44.105Z</updated>
     
@@ -333,8 +333,8 @@
   
   <entry>
     <title>DC-8靶机渗透</title>
-    <link href="https://www.jinxi.site/dc-8-1e4e632be07b/"/>
-    <id>https://www.jinxi.site/dc-8-1e4e632be07b/</id>
+    <link href="https://www.jinxi.site/dc-8/"/>
+    <id>https://www.jinxi.site/dc-8/</id>
     <published>2020-05-16T16:00:00.000Z</published>
     <updated>2022-11-11T06:01:40.968Z</updated>
     
@@ -360,8 +360,8 @@
   
   <entry>
     <title>DC-7靶机渗透</title>
-    <link href="https://www.jinxi.site/dc-7-2c583b911b45/"/>
-    <id>https://www.jinxi.site/dc-7-2c583b911b45/</id>
+    <link href="https://www.jinxi.site/dc-7/"/>
+    <id>https://www.jinxi.site/dc-7/</id>
     <published>2020-05-15T16:00:00.000Z</published>
     <updated>2022-11-11T06:01:37.335Z</updated>
     
@@ -387,8 +387,8 @@
   
   <entry>
     <title>DC-6靶机渗透</title>
-    <link href="https://www.jinxi.site/dc-6-ed60443a1934/"/>
-    <id>https://www.jinxi.site/dc-6-ed60443a1934/</id>
+    <link href="https://www.jinxi.site/dc-6/"/>
+    <id>https://www.jinxi.site/dc-6/</id>
     <published>2020-05-14T16:00:00.000Z</published>
     <updated>2022-11-11T06:01:31.613Z</updated>
     
@@ -414,8 +414,8 @@
   
   <entry>
     <title>DC-5靶机渗透</title>
-    <link href="https://www.jinxi.site/dc-5-eaa87bf67085/"/>
-    <id>https://www.jinxi.site/dc-5-eaa87bf67085/</id>
+    <link href="https://www.jinxi.site/dc-5/"/>
+    <id>https://www.jinxi.site/dc-5/</id>
     <published>2020-05-13T16:00:00.000Z</published>
     <updated>2022-11-11T06:01:27.029Z</updated>
     
@@ -441,8 +441,8 @@
   
   <entry>
     <title>DC-4靶机渗透</title>
-    <link href="https://www.jinxi.site/dc-4-4518d683bda6/"/>
-    <id>https://www.jinxi.site/dc-4-4518d683bda6/</id>
+    <link href="https://www.jinxi.site/dc-4/"/>
+    <id>https://www.jinxi.site/dc-4/</id>
     <published>2020-05-12T16:00:00.000Z</published>
     <updated>2022-11-11T06:01:21.482Z</updated>
     
@@ -468,8 +468,8 @@
   
   <entry>
     <title>DC-3靶机渗透</title>
-    <link href="https://www.jinxi.site/dc-3-ceff3172a59c/"/>
-    <id>https://www.jinxi.site/dc-3-ceff3172a59c/</id>
+    <link href="https://www.jinxi.site/dc-3/"/>
+    <id>https://www.jinxi.site/dc-3/</id>
     <published>2020-05-11T16:00:00.000Z</published>
     <updated>2022-11-11T06:01:16.604Z</updated>
     
@@ -495,8 +495,8 @@
   
   <entry>
     <title>DC-2靶机渗透</title>
-    <link href="https://www.jinxi.site/dc-2-620e15530317/"/>
-    <id>https://www.jinxi.site/dc-2-620e15530317/</id>
+    <link href="https://www.jinxi.site/dc-2/"/>
+    <id>https://www.jinxi.site/dc-2/</id>
     <published>2020-05-10T16:00:00.000Z</published>
     <updated>2022-11-11T06:01:12.984Z</updated>
     
@@ -522,8 +522,8 @@
   
   <entry>
     <title>DC-1靶机渗透</title>
-    <link href="https://www.jinxi.site/dc-1-bfe39e4aa9db/"/>
-    <id>https://www.jinxi.site/dc-1-bfe39e4aa9db/</id>
+    <link href="https://www.jinxi.site/dc-1/"/>
+    <id>https://www.jinxi.site/dc-1/</id>
     <published>2020-05-09T16:00:00.000Z</published>
     <updated>2022-11-11T06:01:07.917Z</updated>
     
