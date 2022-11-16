@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.jinxi.site/image/</loc>
+    
+    <lastmod>2022-11-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jinxi.site/jwtcrack/</loc>
+    
+    <lastmod>2022-11-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.jinxi.site/nullbyte/</loc>
     
     <lastmod>2022-11-11</lastmod>
@@ -182,15 +200,6 @@
   </url>
   
   <url>
-    <loc>https://www.jinxi.site/image/</loc>
-    
-    <lastmod>2022-11-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.jinxi.site/static/index.html</loc>
     
     <lastmod>2022-11-10</lastmod>
@@ -256,7 +265,7 @@
 
   <url>
     <loc>https://www.jinxi.site/</loc>
-    <lastmod>2022-11-14</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -264,70 +273,77 @@
   
   <url>
     <loc>https://www.jinxi.site/tags/penetration-test/</loc>
-    <lastmod>2022-11-14</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.jinxi.site/tags/vulnhub/</loc>
-    <lastmod>2022-11-14</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.jinxi.site/tags/docker/</loc>
-    <lastmod>2022-11-14</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.jinxi.site/tags/appium/</loc>
-    <lastmod>2022-11-14</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.jinxi.site/tags/crawler/</loc>
-    <lastmod>2022-11-14</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.jinxi.site/tags/blog/</loc>
-    <lastmod>2022-11-14</lastmod>
+    <loc>https://www.jinxi.site/tags/skills/</loc>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.jinxi.site/tags/hexo/</loc>
-    <lastmod>2022-11-14</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.jinxi.site/tags/javascript/</loc>
-    <lastmod>2022-11-14</lastmod>
+    <lastmod>2022-11-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jinxi.site/tags/jwt/</loc>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.jinxi.site/tags/hacktool/</loc>
-    <lastmod>2022-11-14</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.jinxi.site/tags/scanner/</loc>
-    <lastmod>2022-11-14</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -336,28 +352,28 @@
   
   <url>
     <loc>https://www.jinxi.site/categories/security/</loc>
-    <lastmod>2022-11-14</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.jinxi.site/categories/docker/</loc>
-    <lastmod>2022-11-14</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.jinxi.site/categories/skills/</loc>
-    <lastmod>2022-11-14</lastmod>
+    <loc>https://www.jinxi.site/categories/hexo/</loc>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.jinxi.site/categories/front-end/</loc>
-    <lastmod>2022-11-14</lastmod>
+    <lastmod>2022-11-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

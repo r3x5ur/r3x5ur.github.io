@@ -6,7 +6,7 @@
   <link href="https://www.jinxi.site/atom.xml" rel="self"/>
   
   <link href="https://www.jinxi.site/"/>
-  <updated>2022-11-11T05:56:57.244Z</updated>
+  <updated>2022-11-16T07:03:12.679Z</updated>
   <id>https://www.jinxi.site/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>常用的JWT攻击手段</title>
+    <link href="https://www.jinxi.site/jwtcrack/"/>
+    <id>https://www.jinxi.site/jwtcrack/</id>
+    <published>2022-11-16T02:40:13.000Z</published>
+    <updated>2022-11-16T07:03:12.679Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;常用的JWT攻击手段&quot;&gt;&lt;a href=&quot;#常用的JWT攻击手段&quot; class=&quot;headerlink&quot; title=&quot;常用的JWT攻击手段&quot;&gt;&lt;/a&gt;常用的JWT攻击手段&lt;/h1&gt;&lt;h2 id=&quot;1-什么是-jwt？&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="security" scheme="https://www.jinxi.site/categories/security/"/>
+    
+    
+    <category term="skills" scheme="https://www.jinxi.site/tags/skills/"/>
+    
+    <category term="jwt" scheme="https://www.jinxi.site/tags/jwt/"/>
+    
+  </entry>
   
   <entry>
     <title>nmap扫描工具的使用</title>
@@ -78,7 +105,7 @@
     <link href="https://www.jinxi.site/image/"/>
     <id>https://www.jinxi.site/image/</id>
     <published>2022-04-21T06:06:49.000Z</published>
-    <updated>2022-11-11T05:55:14.565Z</updated>
+    <updated>2022-11-16T07:03:31.566Z</updated>
     
     
       
@@ -91,10 +118,10 @@
     
     
     
-    <category term="skills" scheme="https://www.jinxi.site/categories/skills/"/>
+    <category term="hexo" scheme="https://www.jinxi.site/categories/hexo/"/>
     
     
-    <category term="blog" scheme="https://www.jinxi.site/tags/blog/"/>
+    <category term="skills" scheme="https://www.jinxi.site/tags/skills/"/>
     
     <category term="hexo" scheme="https://www.jinxi.site/tags/hexo/"/>
     
@@ -506,33 +533,6 @@
         
         
     <summary type="html">&lt;h1 id=&quot;DC-2靶机渗透&quot;&gt;&lt;a href=&quot;#DC-2靶机渗透&quot; class=&quot;headerlink&quot; title=&quot;DC-2靶机渗透&quot;&gt;&lt;/a&gt;DC-2靶机渗透&lt;/h1&gt;&lt;h2 id=&quot;1-渗透过程&quot;&gt;&lt;a href=&quot;#1-渗透过程&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="security" scheme="https://www.jinxi.site/categories/security/"/>
-    
-    
-    <category term="penetration-test" scheme="https://www.jinxi.site/tags/penetration-test/"/>
-    
-    <category term="vulnhub" scheme="https://www.jinxi.site/tags/vulnhub/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>DC-1靶机渗透</title>
-    <link href="https://www.jinxi.site/dc-1/"/>
-    <id>https://www.jinxi.site/dc-1/</id>
-    <published>2020-05-09T16:00:00.000Z</published>
-    <updated>2022-11-11T06:01:07.917Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;DC-1靶机渗透&quot;&gt;&lt;a href=&quot;#DC-1靶机渗透&quot; class=&quot;headerlink&quot; title=&quot;DC-1靶机渗透&quot;&gt;&lt;/a&gt;DC-1靶机渗透&lt;/h1&gt;&lt;h2 id=&quot;1-渗透过程&quot;&gt;&lt;a href=&quot;#1-渗透过程&quot;</summary>
         
       
     
