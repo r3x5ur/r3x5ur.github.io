@@ -2,16 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://r3x5ur.me/sponsor/index.html</loc>
-    
-    <lastmod>2023-04-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://r3x5ur.me/image/</loc>
+    <loc>https://r3x5ur.me/image/</loc>
     
     <lastmod>2022-11-16</lastmod>
     
@@ -20,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://r3x5ur.me/jwtcrack/</loc>
+    <loc>https://r3x5ur.me/jwtcrack/</loc>
     
     <lastmod>2022-11-16</lastmod>
     
@@ -29,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://r3x5ur.me/nullbyte/</loc>
+    <loc>https://r3x5ur.me/nullbyte/</loc>
     
     <lastmod>2022-11-11</lastmod>
     
@@ -38,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://r3x5ur.me/worker/</loc>
+    <loc>https://r3x5ur.me/worker/</loc>
     
     <lastmod>2022-11-11</lastmod>
     
@@ -47,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://r3x5ur.me/js-tools/</loc>
+    <loc>https://r3x5ur.me/js-tools/</loc>
     
     <lastmod>2022-11-11</lastmod>
     
@@ -56,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://r3x5ur.me/chanakya/</loc>
+    <loc>https://r3x5ur.me/chanakya/</loc>
     
     <lastmod>2022-11-11</lastmod>
     
@@ -65,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://r3x5ur.me/lazy/</loc>
+    <loc>https://r3x5ur.me/lazy/</loc>
     
     <lastmod>2022-11-11</lastmod>
     
@@ -74,7 +65,7 @@
   </url>
   
   <url>
-    <loc>http://r3x5ur.me/india/</loc>
+    <loc>https://r3x5ur.me/india/</loc>
     
     <lastmod>2022-11-11</lastmod>
     
@@ -83,7 +74,7 @@
   </url>
   
   <url>
-    <loc>http://r3x5ur.me/fbi/</loc>
+    <loc>https://r3x5ur.me/fbi/</loc>
     
     <lastmod>2022-11-11</lastmod>
     
@@ -92,7 +83,7 @@
   </url>
   
   <url>
-    <loc>http://r3x5ur.me/dc-9/</loc>
+    <loc>https://r3x5ur.me/dc-9/</loc>
     
     <lastmod>2022-11-11</lastmod>
     
@@ -101,7 +92,7 @@
   </url>
   
   <url>
-    <loc>http://r3x5ur.me/dc-8/</loc>
+    <loc>https://r3x5ur.me/dc-8/</loc>
     
     <lastmod>2022-11-11</lastmod>
     
@@ -110,7 +101,7 @@
   </url>
   
   <url>
-    <loc>http://r3x5ur.me/dc-7/</loc>
+    <loc>https://r3x5ur.me/dc-7/</loc>
     
     <lastmod>2022-11-11</lastmod>
     
@@ -119,7 +110,7 @@
   </url>
   
   <url>
-    <loc>http://r3x5ur.me/dc-6/</loc>
+    <loc>https://r3x5ur.me/dc-6/</loc>
     
     <lastmod>2022-11-11</lastmod>
     
@@ -128,7 +119,7 @@
   </url>
   
   <url>
-    <loc>http://r3x5ur.me/dc-5/</loc>
+    <loc>https://r3x5ur.me/dc-5/</loc>
     
     <lastmod>2022-11-11</lastmod>
     
@@ -137,7 +128,7 @@
   </url>
   
   <url>
-    <loc>http://r3x5ur.me/dc-4/</loc>
+    <loc>https://r3x5ur.me/dc-4/</loc>
     
     <lastmod>2022-11-11</lastmod>
     
@@ -146,7 +137,7 @@
   </url>
   
   <url>
-    <loc>http://r3x5ur.me/dc-3/</loc>
+    <loc>https://r3x5ur.me/dc-3/</loc>
     
     <lastmod>2022-11-11</lastmod>
     
@@ -155,7 +146,7 @@
   </url>
   
   <url>
-    <loc>http://r3x5ur.me/dc-2/</loc>
+    <loc>https://r3x5ur.me/dc-2/</loc>
     
     <lastmod>2022-11-11</lastmod>
     
@@ -164,7 +155,7 @@
   </url>
   
   <url>
-    <loc>http://r3x5ur.me/dc-1/</loc>
+    <loc>https://r3x5ur.me/dc-1/</loc>
     
     <lastmod>2022-11-11</lastmod>
     
@@ -173,7 +164,7 @@
   </url>
   
   <url>
-    <loc>http://r3x5ur.me/docker/</loc>
+    <loc>https://r3x5ur.me/docker/</loc>
     
     <lastmod>2022-11-11</lastmod>
     
@@ -182,7 +173,7 @@
   </url>
   
   <url>
-    <loc>http://r3x5ur.me/docker-channel-proxy/</loc>
+    <loc>https://r3x5ur.me/docker-channel-proxy/</loc>
     
     <lastmod>2022-11-11</lastmod>
     
@@ -191,7 +182,7 @@
   </url>
   
   <url>
-    <loc>http://r3x5ur.me/docker-appium/</loc>
+    <loc>https://r3x5ur.me/docker-appium/</loc>
     
     <lastmod>2022-11-11</lastmod>
     
@@ -200,7 +191,7 @@
   </url>
   
   <url>
-    <loc>http://r3x5ur.me/nmap/</loc>
+    <loc>https://r3x5ur.me/nmap/</loc>
     
     <lastmod>2022-11-11</lastmod>
     
@@ -209,7 +200,7 @@
   </url>
   
   <url>
-    <loc>http://r3x5ur.me/static/index.html</loc>
+    <loc>https://r3x5ur.me/static/index.html</loc>
     
     <lastmod>2022-11-10</lastmod>
     
@@ -218,7 +209,7 @@
   </url>
   
   <url>
-    <loc>http://r3x5ur.me/404/index.html</loc>
+    <loc>https://r3x5ur.me/404/index.html</loc>
     
     <lastmod>2022-11-10</lastmod>
     
@@ -227,7 +218,7 @@
   </url>
   
   <url>
-    <loc>http://r3x5ur.me/categories/index.html</loc>
+    <loc>https://r3x5ur.me/categories/index.html</loc>
     
     <lastmod>2022-11-10</lastmod>
     
@@ -236,7 +227,7 @@
   </url>
   
   <url>
-    <loc>http://r3x5ur.me/friends/index.html</loc>
+    <loc>https://r3x5ur.me/friends/index.html</loc>
     
     <lastmod>2022-11-01</lastmod>
     
@@ -245,7 +236,7 @@
   </url>
   
   <url>
-    <loc>http://r3x5ur.me/contact/index.html</loc>
+    <loc>https://r3x5ur.me/contact/index.html</loc>
     
     <lastmod>2022-11-01</lastmod>
     
@@ -254,7 +245,7 @@
   </url>
   
   <url>
-    <loc>http://r3x5ur.me/about/index.html</loc>
+    <loc>https://r3x5ur.me/about/index.html</loc>
     
     <lastmod>2022-11-01</lastmod>
     
@@ -263,7 +254,7 @@
   </url>
   
   <url>
-    <loc>http://r3x5ur.me/tags/index.html</loc>
+    <loc>https://r3x5ur.me/tags/index.html</loc>
     
     <lastmod>2022-11-01</lastmod>
     
@@ -273,86 +264,86 @@
   
 
   <url>
-    <loc>http://r3x5ur.me/</loc>
-    <lastmod>2023-04-06</lastmod>
+    <loc>https://r3x5ur.me/</loc>
+    <lastmod>2023-07-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://r3x5ur.me/tags/penetration-test/</loc>
-    <lastmod>2023-04-06</lastmod>
+    <loc>https://r3x5ur.me/tags/penetration-test/</loc>
+    <lastmod>2023-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://r3x5ur.me/tags/vulnhub/</loc>
-    <lastmod>2023-04-06</lastmod>
+    <loc>https://r3x5ur.me/tags/vulnhub/</loc>
+    <lastmod>2023-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://r3x5ur.me/tags/docker/</loc>
-    <lastmod>2023-04-06</lastmod>
+    <loc>https://r3x5ur.me/tags/docker/</loc>
+    <lastmod>2023-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://r3x5ur.me/tags/appium/</loc>
-    <lastmod>2023-04-06</lastmod>
+    <loc>https://r3x5ur.me/tags/appium/</loc>
+    <lastmod>2023-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://r3x5ur.me/tags/crawler/</loc>
-    <lastmod>2023-04-06</lastmod>
+    <loc>https://r3x5ur.me/tags/crawler/</loc>
+    <lastmod>2023-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://r3x5ur.me/tags/skills/</loc>
-    <lastmod>2023-04-06</lastmod>
+    <loc>https://r3x5ur.me/tags/skills/</loc>
+    <lastmod>2023-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://r3x5ur.me/tags/hexo/</loc>
-    <lastmod>2023-04-06</lastmod>
+    <loc>https://r3x5ur.me/tags/hexo/</loc>
+    <lastmod>2023-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://r3x5ur.me/tags/javascript/</loc>
-    <lastmod>2023-04-06</lastmod>
+    <loc>https://r3x5ur.me/tags/javascript/</loc>
+    <lastmod>2023-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://r3x5ur.me/tags/jwt/</loc>
-    <lastmod>2023-04-06</lastmod>
+    <loc>https://r3x5ur.me/tags/jwt/</loc>
+    <lastmod>2023-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://r3x5ur.me/tags/hacktool/</loc>
-    <lastmod>2023-04-06</lastmod>
+    <loc>https://r3x5ur.me/tags/hacktool/</loc>
+    <lastmod>2023-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://r3x5ur.me/tags/scanner/</loc>
-    <lastmod>2023-04-06</lastmod>
+    <loc>https://r3x5ur.me/tags/scanner/</loc>
+    <lastmod>2023-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -360,29 +351,29 @@
 
   
   <url>
-    <loc>http://r3x5ur.me/categories/security/</loc>
-    <lastmod>2023-04-06</lastmod>
+    <loc>https://r3x5ur.me/categories/security/</loc>
+    <lastmod>2023-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://r3x5ur.me/categories/docker/</loc>
-    <lastmod>2023-04-06</lastmod>
+    <loc>https://r3x5ur.me/categories/docker/</loc>
+    <lastmod>2023-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://r3x5ur.me/categories/hexo/</loc>
-    <lastmod>2023-04-06</lastmod>
+    <loc>https://r3x5ur.me/categories/hexo/</loc>
+    <lastmod>2023-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://r3x5ur.me/categories/front-end/</loc>
-    <lastmod>2023-04-06</lastmod>
+    <loc>https://r3x5ur.me/categories/front-end/</loc>
+    <lastmod>2023-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
